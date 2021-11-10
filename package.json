@@ -1,0 +1,20 @@
+{
+  "name": "chatbot-node-telegran",
+  "version": "1.0.0",
+  "description": "**chatbot-node-telegran**\r Chatbot desenvolvmento na disciplica de sistemas de apoio a decisao do curso de\r engenharia de software -UnC Mafra 2021/2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardocieslinski/chatbot-node-telegran.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardocieslinski/chatbot-node-telegran/issues"
+  },
+  "homepage": "https://github.com/eduardocieslinski/chatbot-node-telegran#readme"
+}
