@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/eduardocieslinski/chatbot-node-telegran/issues"
   },
-  "homepage": "https://github.com/eduardocieslinski/chatbot-node-telegran#readme"
+  "homepage": "https://github.com/eduardocieslinski/chatbot-node-telegran#readme",
+  "dependencies": {
+    "axios": "0.17.1",
+    "telegraf": "3.17.3"
+  }
 }
